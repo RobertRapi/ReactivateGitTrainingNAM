@@ -1,1 +1,2 @@
 This file is having details about Orange.
+Local change: Orange is a beautiful colour.
